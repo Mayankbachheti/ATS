@@ -1,0 +1,7 @@
+langchain
+langchain_groq
+streamlit
+fitz
+pymupdf
+langchain_core
+python-dotenv
